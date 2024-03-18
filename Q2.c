@@ -4,7 +4,7 @@
 int main()
 {
     int arr[7];
-    printf("Enter array elements: ");
+    printf("Enter 7 array elements: ");
     for(int i=0; i<7; i++) {
         scanf("%d", &arr[i]);
     }
